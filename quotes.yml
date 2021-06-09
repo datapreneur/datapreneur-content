@@ -1,12 +1,41 @@
-fa:
-  - text: aaaaaaaaaaaaaaaaaaaaaaaaaa
-    by: a
-  - text: bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-    by: b
-en:
-  - text: ccccccccccccccccccccccccccccccccccc
-    by: c
-  - text: dddddddddddddddd
-    by: d
-  - text: eeeeeeeeeeeeeeeeeeeeeeee
-    by: e
+  en:
+      text: The world is one big data problem.
+      by: Andrew McAfee, co-director of the MIT Initiative
+
+      text: Big data is at the foundation of all the megatrends that are happening.
+      by: Chris Lynch, American Writer of Books
+
+      text: Without big data analytics, companies are blind and deaf, wandering out onto the web like deer on a freeway.
+      by: Geoffrey Moore, an American Management Consultant and Author
+
+      text: Data is the new science. Big Data holds the answers.
+      by: Pat Gelsinger
+
+      text: You can have data without information, but you cannot have information without data.
+      by: Daniel Keys Moran
+
+      text: Torture the data, and it will confess to anything.
+      by: Ronald Coase
+
+      text: Consumer data will be the biggest differentiator in the next two to three years. Whoever unlocks the reams of data and uses it strategically will win.
+      by: Angela Ahrendts
+
+      text: Big data will spell the death of customer segmentation and force the marketer to understand each customer as an individual within 18 months or risk being left in the dust.
+      by: Ginni Rometty
+
+      text: Every company has big data in its future and every company will eventually be in the data business.
+      by: Thomas H. Davenport
+
+      text: Information is the oil of the 21st century, and analytics is the combustion engine.
+      by: Peter Sondergaard
+
+      text: The world is now awash in data and we can see consumers in a lot clearer ways.
+      by: Max Levchin, Co-founder of PayPal
+
+      text: Data is a precious thing and will last longer than the systems themselves.
+      by: Tim Berners-Lee, Inventor of the World Wide Web
+
+  fa:
+      text: دنیا یک مسئله کلان داده است.
+      by: اندرو مک‌افی، هیئت مدیره موسسه MIT
+

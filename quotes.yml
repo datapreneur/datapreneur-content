@@ -1,7 +1,12 @@
 fa:
-  - aaaaaaaaaaaaaaaaaaaaaaaaaa
-  - bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  - text: aaaaaaaaaaaaaaaaaaaaaaaaaa
+    by: a
+  - text: bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    by: b
 en:
-  - ccccccccccccccccccccccccccccccccccc
-  - dddddddddddddddd
-  - eeeeeeeeeeeeeeeeeeeeeeee
+  - text: ccccccccccccccccccccccccccccccccccc
+    by: c
+  - text: dddddddddddddddd
+    by: d
+  - text: eeeeeeeeeeeeeeeeeeeeeeee
+    by: e

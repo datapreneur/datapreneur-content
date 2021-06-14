@@ -1,7 +1,8 @@
 
 title: Breaking The Grid, Grabs Your Attention 1
 language: en
-author: Farhad Sotoudeh
+username: farhad
+display: Farhad Sotoudeh
 date: 2021-Jul-2
 tags:
     - article

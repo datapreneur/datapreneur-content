@@ -77,12 +77,14 @@ GPA: 4/4
 
 RCND: Random Based Clustering for Numerical Data
 
+---
 ## SKILLS
 - Python / R
 - Machine Learning
 - Web Development
 - Linux Administration
 
+---
 ## FORMER PROFESSIONS
 - Linux Administration
 - Computer Networks

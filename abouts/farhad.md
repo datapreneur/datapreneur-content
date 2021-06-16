@@ -10,11 +10,12 @@ keywords:
     - datapreneur
     - python
     - data science
-metadescription: Expert Python programmer with Machine Learning expertise and more than 5 years of experience in both teaching and practicing. Proven ability to effectively lead personnel in various combat and non-combat situations. Strong problem-solving abilities, committed to achieving goals with fast learning and research skills.
+summary: Expert Python programmer with Machine Learning expertise and more than 5 years of experience in both teaching and practicing. Proven ability to effectively lead personnel in various combat and non-combat situations. Strong problem-solving abilities, committed to achieving goals with fast learning and research skills.
 
 ---
-
-*DATAPRENEUR — DEVELOPER & LECTURER*
+<p align=center>
+DATAPRENEUR — DEVELOPER & LECTURER
+</p>
 
 # ABOUT
 Expert Python programmer with Machine Learning expertise and more than 5 years of experience in both teaching and practicing. Proven ability to effectively lead personnel in various combat and non-combat situations. Strong problem-solving abilities, committed to achieving goals with fast learning and research skills.

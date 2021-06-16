@@ -34,7 +34,7 @@ Expert Python programmer with Machine Learning expertise and more than 5 years o
 *Apr 2019 - Jun 2019*
 - Workshop: Bioinformatics in NGS
 
-![Certificate](https://drive.google.com/file/d/1RZ3-mAscQo2yT6LPh1a5OeLuJ2-pJVmP/view)
+![Certificate](farhad/acecr.jpg)
 
 ## Nevisad ltd., Mashhad — Chief Research Officer
 *Jan 2014 - Dec 2016*

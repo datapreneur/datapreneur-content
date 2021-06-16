@@ -21,6 +21,7 @@ DATAPRENEUR — DEVELOPER & LECTURER
 Expert Python programmer with Machine Learning expertise and more than 5 years of experience in both teaching and practicing. Proven ability to effectively lead personnel in various combat and non-combat situations. Strong problem-solving abilities, committed to achieving goals with fast learning and research skills.
 
 
+---
 ## WORK EXPERIENCE
 
 ### Datapreneur
@@ -48,7 +49,7 @@ Expert Python programmer with Machine Learning expertise and more than 5 years o
 
 - Doing research on the process efficiency of NLP (Natural Language Processing) algorithms.
 
-
+---
 ## COURSES
 ### Python Programming & ML, Rashed Institute, Mashhad
 
@@ -58,6 +59,7 @@ Expert Python programmer with Machine Learning expertise and more than 5 years o
 
 *Jan 2017 - jan 2020*
 
+---
 ## EDUCATION
 ### IT, Applied Science University — Bachelor
 
@@ -72,6 +74,7 @@ GPA: 4/4
 
 *2007 — Rafsanjan*
 
+---
 ## PUBLICATIONS
 ### MCAE (2016)
 

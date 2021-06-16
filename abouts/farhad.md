@@ -30,11 +30,7 @@ Expert Python programmer with Machine Learning expertise and more than 5 years o
 - Bioinformatics projects (Such as RNA-SEQ and CHIP-SEQ)
 - Automating Data-driven Tasks (Several projects)
 - ML projects (Image Processing, NLP, Dynamic Behavioural Modeling, ...)
-### CODE International, Mashhad — Developer (Python-flask)
 
-*Oct 2019 - Present*
-
-- Web Development (Team leader / Back-end developer / Server admin)
 ### ACECR Khorasan, Mashhad — Data Science Advisor
 
 *Apr 2019 - Jun 2019*

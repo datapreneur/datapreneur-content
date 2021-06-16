@@ -3,22 +3,70 @@ language: en
 username: farhad
 title: Farhad Sotoudeh
 tags:
-    - article
-    - test
+    - datapreneur
+    - python
+    - data science
 keywords:
-    - 1st
-    - article
-    - test
-metadescription: test posting the 1st article
-summary: 1 Instead of focusing on content creation and hard work, we have learned how to master the art of doing nothing by providing massive amounts of whitespace and generic content that can seem massive, monolithic and worth your attention.
+    - datapreneur
+    - python
+    - data science
+metadescription: Expert Python programmer with Machine Learning expertise and more than 5 years of experience in both teaching and practicing. Proven ability to effectively lead personnel in various combat and non-combat situations. Strong problem-solving abilities, committed to achieving goals with fast learning and research skills.
 
 ---
 
-Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin, though it looks like it, and it actually says nothing,” Before & After magazine answered a curious reader, “Its ‘words’ loosely approximate the frequency with which letters occur in English, which is why at a glance it looks pretty real.”
+*DATAPRENEUR — DEVELOPER & LECTURER*
 
-As Cicero would put it, “Um, not so fast.”
+## ABOUT
+Expert Python programmer with Machine Learning expertise and more than 5 years of experience in both teaching and practicing. Proven ability to effectively lead personnel in various combat and non-combat situations. Strong problem-solving abilities, committed to achieving goals with fast learning and research skills.
 
-The placeholder text, beginning with the line “Lorem ipsum dolor sit amet, consectetur adipiscing elit”, looks like Latin because in its youth, centuries ago, it was Latin.
 
-Richard McClintock, a Latin scholar from Hampden-Sydney College, is credited with discovering the source behind the ubiquitous filler text. In seeing a sample of lorem ipsum, his interest was piqued by consectetur—a genuine, albeit rare, Latin word. Consulting a Latin dictionary led McClintock to a passage from De Finibus Bonorum et Malorum (“On the Extremes of Good and Evil”), a first-century B.C. text from the Roman philosopher Cicero.
+## WORK EXPERIENCE
 
+### Datapreneur
+*Apr 2020 - Present*
+- Bioinformatics projects (Such as RNA-SEQ and CHIP-SEQ)
+- Automating Data-driven Tasks (Several projects)
+- ML projects (Image Processing, NLP, Dynamic Behavioural Modeling, ...)
+### CODE International, Mashhad — Developer (Python-flask)
+*Oct 2019 - Present*
+- Web Development (Team leader / Back-end developer / Server admin)
+### ACECR Khorasan, Mashhad — Data Science Advisor
+*Apr 2019 - Jun 2019*
+- Workshop: Bioinformatics in NGS (Certificate)
+### Nevisad ltd., Mashhad — Chief Research Officer
+*Jan 2014 - Dec 2016*
+- Doing research on the process efficiency of NLP (Natural Language Processing) algorithms.
+
+
+## COURSES
+- Python Programming & ML, Rashed Institute, Mashhad
+*Jan 2018 - Present*
+
+- Linux Administration, My Private Classes
+*Jan 2017 - jan 2020*
+
+## EDUCATION
+### IT, Applied Science University — Bachelor
+*2019 — Mashhad*
+
+GPA: 4/4 — Project: Real time object detection using deep networks
+### IT, Applied Science University — Associate of Applied *Science*
+2017 — Mashhad
+
+GPA: 4/4
+### Computer Science, Vali-e-Asr University — Bachelor
+*2007 — Rafsanjan*
+
+## PUBLICATIONS
+- MCAE (2016)
+RCND: Random Based Clustering for Numerical Data
+
+## SKILLS
+- Python / R
+- Machine Learning
+- Web Development
+- Linux Administration
+- FORMER PROFESSIONS
+- Linux Administration
+- Computer Networks
+- Graphic Design

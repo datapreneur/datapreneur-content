@@ -2,23 +2,21 @@
 language: fa
 username: farhad
 title: فرهاد ستوده
-tags:
-    - datapreneur
-    - python
-    - data science
 keywords:
-    - datapreneur
-    - python
-    - data science
-summary: Expert Python programmer with Machine Learning expertise and more than 5 years of experience in both teaching and practicing. Proven ability to effectively lead personnel in various combat and non-combat situations. Strong problem-solving abilities, committed to achieving goals with fast learning and research skills.
+    - فرهاد ستوده
+    - کارآفرینِ داده
+    - پایتون
+    - علم داده
+summary: 
+یک متن کوتاه
 
 ---
 <p align=center>
-کارآفرینِ داده ــ مدرس و برنامه‌نویس
+کارآفرینِ داده — مدرس و برنامه‌نویس
 </p>
 
 ## درباره
-Expert Python programmer with Machine Learning expertise and more than 5 years of experience in both teaching and practicing. Proven ability to effectively lead personnel in various combat and non-combat situations. Strong problem-solving abilities, committed to achieving goals with fast learning and research skills.
+دوباره همون متن کوتاه
 
 
 ---
@@ -27,51 +25,55 @@ Expert Python programmer with Machine Learning expertise and more than 5 years o
 ### کارآفرینِ داده
 *Apr 2020 - Present*
 
-- Bioinformatics projects (Such as RNA-SEQ and CHIP-SEQ)
-- Automating Data-driven Tasks (Several projects)
-- ML projects (Image Processing, NLP, Dynamic Behavioural Modeling, ...)
+- پروژه‌های بایوانفورماتیک (از جمله RNA-SEQ و CHIP-SEQ)
+- اتوماتیک سازی کارهای مبتنی بر داده
+- پروژه‌های یادگیری ماشین (پردازش تصویر، پردازش زبان طبیعی، ...)
 
-### جهاددانشگاهی خراسان، مشهد ــ مشاور دیتاساینس
 
-*Apr 2019 - Jun 2019*
+### جهاددانشگاهی خراسان، مشهد — مشاور دیتاساینس
+
+*بهار و تابستان ۱۳۹۸*
 
 - ورکشاپ: بایوانفورماتیک برای متخصصین NGS
 
-![Certificate](farhad/acecr.jpg)
+![گواهینامه](farhad/acecr.jpg)
 
-### Nevisad ltd., Mashhad — Chief Research Officer
+### شرکت نویساد، مشهد — سرپرست پژوهش
 
-*Jan 2014 - Dec 2016*
+*زمستان ۱۳۹۴ تا زمستان ۱۳۹۶*
 
-- Doing research on the process efficiency of NLP (Natural Language Processing) algorithms.
+- تحقیق در مورد کارایی و بهینه‌سازی الگوریتم‌های پردازش زبان طبیعی
 
 ---
 ## دوره‌ها
-### Python Programming & ML, Rashed Institute, Mashhad
+### برنامه‌نویسی پایتون و یادگیری ماشین، موسسه آموزشی راشد، مشهد
 
-*Jan 2018 - Present*
+*زمستان ۱۳۹۷ - اکنون*
 
-### Linux Administration, My Private Classes
+### راهبری سیستم‌های مبتنی بر لینوکس، کلاس‌های خصوصی
 
-*Jan 2017 - jan 2020*
+*زمستان ۱۳۹۶ - زمستان ۱۳۹۹*
 
 ---
 ## تحصیلات
-### IT, Applied Science University — Bachelor
+### کارشناسی فناوری اطلاعات - دانشگاه علمی کاربردی
 
-*2019 — Mashhad*
+*مشهد - ۱۳۹۸*
 
-GPA: 4/4 — Project: Real time object detection using deep networks
-### IT, Applied Science University — Associate of Applied *Science*
-2017 — Mashhad
+پروژه پایانی: بررسی عملکرد معماری‌های مختلف شبکه‌های عصبی عمیق در شناسایی بلادرنگ اشیا (پیاده‌سازی)
 
-GPA: 4/4
-### Computer Science, Vali-e-Asr University — Bachelor
+معدل: الف
 
-*2007 — Rafsanjan*
+### کاردانی فناوری اطلاعات - دانشگاه علمی کاربردی
+*مشهد - ۱۳۹۶*
+
+معدل: الف
+### کارشناسی علوم کامپیوتر - دانشگاه ولیعصر رفسنجان
+
+*رفسنجان - ۱۳۸۶*
 
 ---
-## PUBLICATIONS
+## مقالات
 ### MCAE (2016)
 
 RCND: Random Based Clustering for Numerical Data

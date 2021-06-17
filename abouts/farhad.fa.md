@@ -7,8 +7,7 @@ keywords:
     - کارآفرینِ داده
     - پایتون
     - علم داده
-summary: 
-یک متن کوتاه
+summary: یک متن کوتاه
 
 ---
 <p align=center>
